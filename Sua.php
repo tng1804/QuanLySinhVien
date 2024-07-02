@@ -123,7 +123,7 @@
                 <td>
                     <button type="submit" name="btnGhi">Ghi</button>
                     <button class="btnThoat">
-                        <a href="./View.php">Thoát</a>
+                        <a href="./index.php">Thoát</a>
                     </button>
                 </td>
             </tr>
