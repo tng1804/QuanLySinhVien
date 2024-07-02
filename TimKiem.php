@@ -96,7 +96,7 @@
     ?>
     <br>
     <button>
-        <a href="./View.php">Home</a>
+        <a href="./index.php">Home</a>
     </button>
 
 </body>
