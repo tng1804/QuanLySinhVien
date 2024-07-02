@@ -47,7 +47,7 @@
                 <td>
                     <button type="submit" name="btnGhi">Ghi</button>
                     <button class="btnThoat">
-                        <a href="./View.php">Home</a>
+                        <a href="./index.php">Home</a>
                     </button>
                 </td>
             </tr>
